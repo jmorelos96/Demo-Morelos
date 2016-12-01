@@ -1,0 +1,13 @@
+.navbar-inverse{
+	border-radius: 0px;
+	background-image: linear-gradient(to bottom,#5f5f5f 0,#5f5f5f 100%);
+}
+footer{
+	background-color:#555;
+	color:white;
+	padding:27.5px;
+
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.open>a{
+	    background-image: linear-gradient(to bottom,#7b7b7b 0,#7b7b7b 100%);
+}
